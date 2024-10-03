@@ -1,6 +1,6 @@
 ![Showdown][sd-logo]
 
-Showdown is a Javascript Markdown to HTML converter, based on the original works by John Gruber. It can be used client side (in the browser) or server side (with Node or io). 
+MarkdownTo is a Javascript Markdown to HTML converter, based on the original works by John Gruber. It can be used client side (in the browser) or server side (with Node or io). 
 
 
 # Installation
@@ -30,7 +30,7 @@ You can also use one of several CDNs available:
         https://cdnjs.cloudflare.com/ajax/libs/showdown/<version tag>/showdown.min.js
 
 
-[sd-logo]: https://raw.githubusercontent.com/showdownjs/logo/master/dist/logo.readme.png
+[sd-logo]: https://www.markdownto.com/img/logo.png
 [releases]: https://github.com/showdownjs/showdown/releases
 [atx]: http://www.aaronsw.com/2002/atx/intro
 [setext]: https://en.wikipedia.org/wiki/Setext
